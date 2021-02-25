@@ -31,3 +31,7 @@ venv/
 __pycache__
 *.pyc
 .pytest_cache
+
+# Used in contrib auto-update action
+/node_modules/
+/package-lock.json
